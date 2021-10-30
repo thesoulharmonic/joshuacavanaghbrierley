@@ -269,3 +269,12 @@ footer p { font-size: 13px; margin: 0; }
 .pintrest-icon { background: url(../img/pintrest-icon.png); height: 34px; width: 35px; display: block; text-indent: -9999px; }
 .wp1, .wp2, .wp3, .wp4, .wp5, .wp6 { visibility: hidden; }
 .bounceInLeft, .bounceInRight, .fadeInUp { visibility: visible; }
+
+.et_pb_slide_description, .et_pb_slider_fullwidth_off .et_pb_slide_description {
+    padding: 16% 8%;
+	font-size: 30px;
+	text-align: center;
+	color:#f4f5fc;
+    width: auto;
+    margin: auto;
+}
