@@ -30,7 +30,7 @@ html { font-size: 100%; /* 1 */
 * elements. */
 html, button, input, select, textarea { font-family: sans-serif; }
 /* * Addresses margins handled incorrectly in IE 6/7. */
-body { margin: 0; font-family: 'Lato', sans-serif; overflow-x: hidden; }
+body { margin: 0; font-family: 'Georgia',Georgia,"Times New Roman",serif; sans-serif; overflow-x: hidden; }
 html, body { width: auto !important; overflow-x: hidden !important; }
 /* ==========================================================================
 Links
