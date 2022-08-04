@@ -303,6 +303,6 @@ footer p { font-size: 13px; margin: 0; }
 
 	#work .section-text  {
 		position: relative;
-		height: 1400px;
+		height: 1400px !important;
 	}
 }
